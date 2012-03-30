@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PloneFormGen\n"
 "POT-Creation-Date: 2011-07-07 16:37+0000\n"
-"PO-Revision-Date: 2008-01-11 11:38+0100\n"
-"Last-Translator: Fabrizio Reale <fabrizio.reale@redomino.com>\n"
+"PO-Revision-Date: 2012-03-30 16:38+0100\n"
+"Last-Translator: Giacomo Spettoli <giacomo.spettoli@gmail.com>\n"
 "Language-Team: Italian Translation Team <plone-i18n@lists.sourceforge.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -20,132 +20,132 @@ msgstr ""
 #. Default: "A Likert form entry"
 #: ./profiles/default/types/FormLikertField.xml
 msgid "A Likert form entry"
-msgstr ""
+msgstr "Un form Likert"
 
 #. Default: "A captcha field to prevent spam."
 #: ./profiles/default/types/FormCaptchaField.xml
 msgid "A captcha field to prevent spam"
-msgstr ""
+msgstr "Un campo captcha per prevenire lo spam"
 
 #. Default: "A folder which can contain form fields."
 #: ./profiles/default/types/FormFolder.xml
 msgid "A folder which can contain form fields"
-msgstr ""
+msgstr "Una cartella che può contenere dei campi form"
 
 #: ./profiles/default/types/FieldsetFolder.xml
 msgid "A folder which groups form fields as a fieldset."
-msgstr ""
+msgstr "Una cartella che può contenere dei campi di form raggruppati per fieldset"
 
 #. Default: "A form action adapter that will e-mail form input."
 #: ./profiles/default/types/FormMailerAdapter.xml
 msgid "A form action adapter that will e-mail form input"
-msgstr ""
+msgstr "Un adattatore di azione del form che invierà l'input del form via mail"
 
 #. Default: "A form action adapter that will save form input data and \n         return it in csv- or tab-delimited format."
 #: ./profiles/default/types/FormSaveDataAdapter.xml
 msgid "A form action adapter that will save form input data and return it in csv- or tab-delimited format"
-msgstr ""
+msgstr "Un adattatore di azione del form che salverà i dati inseriti nel form e li restituirà in formato csv- o in un formato con delimitatore tab"
 
 #. Default: "A line entry field. This appears as a textarea without wordwrap."
 #: ./profiles/default/types/FormLinesField.xml
 msgid "A line entry field. This appears as a textarea without wordwrap"
-msgstr ""
+msgstr "Un campo di linea. Questa appare come una textarea senza WordWrap."
 
 #. Default: "A string entry field"
 #: ./profiles/default/types/FormStringField.xml
 msgid "A string entry field"
-msgstr ""
+msgstr "Un campo stringa"
 
 #. Default: "A thank-you page that can display form input"
 #: ./profiles/default/types/FormThanksPage.xml
 msgid "A thank-you page that can display form input"
-msgstr ""
+msgstr "Una pagina di ringraziamento che può mostrare un form input"
 
 #: ./browser/quickedit.pt:222
 msgid "Action"
-msgstr ""
+msgstr "Azione"
 
 #: ./browser/quickedit.pt:154
 msgid "Actions"
-msgstr ""
+msgstr "Azioni"
 
 #. Default: "Boolean (checkbox) field"
 #: ./profiles/default/types/FormBooleanField.xml
 msgid "Boolean (checkbox) field"
-msgstr ""
+msgstr "Campo Booleano (checkbox)"
 
 #. Default: "Captcha Field"
 #: ./profiles/default/types/FormCaptchaField.xml
 msgid "Captcha Field"
-msgstr ""
+msgstr "Campo Captcha"
 
 #. Default: "Checkbox Field"
 #: ./profiles/default/types/FormBooleanField.xml
 msgid "Checkbox"
-msgstr ""
+msgstr "Checkbox"
 
 #. Default: "Custom Script Adapter"
 #: ./profiles/default/types/FormCustomScriptAdapter.xml
 msgid "Custom Script Adapter"
-msgstr ""
+msgstr "Adattatore per script personalizzato"
 
 #. Default: "Date/Time Field"
 #: ./profiles/default/types/FormDateField.xml
 msgid "Date/Time"
-msgstr ""
+msgstr "Data/Orario"
 
 #. Default: "Date/Time Entry Field"
 #: ./profiles/default/types/FormDateField.xml
 msgid "Date/Time Entry Field"
-msgstr ""
+msgstr "Campo di inserimento di Data/Orario"
 
 #. Default: "Decimal Number Field"
 #: ./profiles/default/types/FormFixedPointField.xml
 msgid "Decimal Number Field"
-msgstr ""
+msgstr "Campo Numero Decimale"
 
 #: ./browser/quickedit.pt:262
 msgid "Delete"
-msgstr ""
+msgstr "Elimina"
 
 #: ./browser/quickedit.pt:262
 msgid "Edit"
-msgstr ""
+msgstr "Modifica"
 
 #: ./browser/quickedit.pt:183
 msgid "Edit/Delete"
-msgstr ""
+msgstr "Modifica/Elimina"
 
 #: ./browser/quickedit.pt:262
 msgid "Enabled"
-msgstr ""
+msgstr "Abilitato"
 
 #. Default: "End a fieldset (no input component)"
 #: ./profiles/default/types/FieldsetEnd.xml
 msgid "End a fieldset (no input component)"
-msgstr ""
+msgstr "Finisce un fieldset (nessun componente di input)"
 
 #. Default: "Executes a Python script for form data"
 #: ./profiles/default/types/FormCustomScriptAdapter.xml
 msgid "Executes a Python script for form data"
-msgstr ""
+msgstr "Esegue uno Script Python con i dati del form"
 
 #: ./browser/quickedit.pt:182
 msgid "Field"
-msgstr ""
+msgstr "Campo"
 
 #: ./browser/quickedit.pt:122
 msgid "Fields"
-msgstr ""
+msgstr "Campi"
 
 #. Default: "Fieldset End"
 #: ./profiles/default/types/FieldsetEnd.xml
 msgid "Fieldset End"
-msgstr ""
+msgstr "Fine del Fieldset"
 
 #: ./profiles/default/types/FieldsetFolder.xml
 msgid "Fieldset Folder"
-msgstr ""
+msgstr "Cartella Fieldset"
 
 #: ./browser/quickedit.pt:138
 msgid "Fieldsets"
@@ -154,147 +154,147 @@ msgstr ""
 #. Default: "File (upload) field"
 #: ./profiles/default/types/FormFileField.xml
 msgid "File (upload) field"
-msgstr ""
+msgstr "Campo File (upload)"
 
 #. Default: "File Field"
 #: ./profiles/default/types/FormFileField.xml
 msgid "File Field"
-msgstr ""
+msgstr "Campo File"
 
 #. Default: "Fixed-Point (float) entry field"
 #: ./profiles/default/types/FormFixedPointField.xml
 msgid "Fixed-Point (float) entry field"
-msgstr ""
+msgstr "Campo Numero a"
 
 #. Default: "Form Folder"
 #: ./profiles/default/types/FormFolder.xml
 msgid "Form Folder"
-msgstr ""
+msgstr "Cartella Form"
 
 #: ./browser/exportimport.py:57
 msgid "Form imported."
-msgstr ""
+msgstr "Form importato."
 
 #. Default: "Integer entry field"
 #: ./profiles/default/types/FormIntegerField.xml
 msgid "Integer entry field"
-msgstr ""
+msgstr "Campo Numero Intero"
 
 #. Default: "Label Field"
 #: ./profiles/default/types/FormLabelField.xml
 msgid "Label Field"
-msgstr ""
+msgstr "Campo Etichetta"
 
 #. Default: "Label-Only field (no input component)"
 #: ./profiles/default/types/FormLabelField.xml
 msgid "Label-Only field (no input component)"
-msgstr ""
+msgstr "Campo solo Etichetta (nessun input)"
 
 #. Default: "Lines Field"
 #: ./profiles/default/types/FormLinesField.xml
 msgid "Lines Field"
-msgstr ""
+msgstr "Campo Linee"
 
 #. Default: "Mailer Adapter"
 #: ./profiles/default/types/FormMailerAdapter.xml
 msgid "Mailer Adapter"
-msgstr ""
+msgstr "Adattatore Mailer"
 
 #. Default: "Multi-Select Field"
 #: ./profiles/default/types/FormMultiSelectionField.xml
 msgid "Multi-Select Field"
-msgstr ""
+msgstr "Campo selezione multipla"
 
 #. Default: "Multiple selection field (select with multiple or check boxes)"
 #: ./profiles/default/types/FormMultiSelectionField.xml
 msgid "Multiple selection field (select with multiple or check boxes)"
-msgstr ""
+msgstr "Un campo di selezione multipla (un multi-select o dei check box)"
 
 #: ./browser/quickedit.pt:181
 msgid "Order"
-msgstr ""
+msgstr "Ordine"
 
 #. Default: "Password Field"
 #: ./profiles/default/types/FormPasswordField.xml
 msgid "Password Field"
-msgstr ""
+msgstr "Campo Password"
 
 #. Default: "Password entry field (input is masked)"
 #: ./profiles/default/types/FormPasswordField.xml
 msgid "Password entry field (input is masked)"
-msgstr ""
+msgstr "Campo Password (l'input viene mascherato)"
 
 #: ./skins/PloneFormGen/fgvalidate_base.vpy:37
 msgid "Please correct the indicated errors."
-msgstr ""
+msgstr "Prego correggi gli errori indicati."
 
 #. Default: "Rating-Scale Field"
 #: ./profiles/default/types/FormLikertField.xml
 msgid "Rating-Scale Field"
-msgstr ""
+msgstr "Campo Scala-Rating"
 
 #: ./interfaces/exportimport.py:23
 msgid "Remove Existing Form Items?"
-msgstr ""
+msgstr "Rimuovere gli elementi esistenti del form?"
 
 #. Default: "Rich Label Field"
 #: ./profiles/default/types/FormRichLabelField.xml
 msgid "Rich Label Field"
-msgstr ""
+msgstr "Campo Etichetta Avanzata"
 
 #. Default: "Rich-text (visual editor) field"
 #: ./profiles/default/types/FormRichTextField.xml
 msgid "Rich-text (visual editor) field"
-msgstr ""
+msgstr "Campo di Testo Avanzato (editor visuale)"
 
 #. Default: "Rich-text label field"
 #: ./profiles/default/types/FormRichLabelField.xml
 msgid "Rich-text label field"
-msgstr ""
+msgstr "Campo Etichetta di testo avanzato"
 
 #. Default: "RichText Field"
 #: ./profiles/default/types/FormRichTextField.xml
 msgid "RichText Field"
-msgstr ""
+msgstr "Campo di Testo Avanzato"
 
 #. Default: "Save Data Adapter"
 #: ./profiles/default/types/FormSaveDataAdapter.xml
 msgid "Save Data Adapter"
-msgstr ""
+msgstr "Adattatore per la memorizzazione dei dati"
 
 #. Default: "Selection Field"
 #: ./profiles/default/types/FormSelectionField.xml
 msgid "Selection Field"
-msgstr ""
+msgstr "Campo di Selezione"
 
 #. Default: "Selection Field (radio buttons or select)"
 #: ./profiles/default/types/FormSelectionField.xml
 msgid "Selection Field (radio buttons or select)"
-msgstr ""
+msgstr "Campo di Selezione (bottoni radio o select)"
 
 #. Default: "String Field"
 #: ./profiles/default/types/FormStringField.xml
 msgid "String Field"
-msgstr ""
+msgstr "Campo Stringa"
 
 #. Default: "Text (textarea) field"
 #: ./profiles/default/types/FormTextField.xml
 msgid "Text (textarea) field"
-msgstr ""
+msgstr "Campo Testo (textarea)"
 
 #. Default: "Text Field"
 #: ./profiles/default/types/FormTextField.xml
 msgid "Text Field"
-msgstr ""
+msgstr "Campo di Testo"
 
 #. Default: "Thanks Page"
 #: ./profiles/default/types/FormThanksPage.xml
 msgid "Thanks Page"
-msgstr ""
+msgstr "Pagina di ringraziamento"
 
 #: ./browser/quickedit.pt:262
 msgid "Thanks Pages"
-msgstr ""
+msgstr "Pagine di ringraziamento"
 
 #. Default: "Toolbox <span> <img alt=\"Ajax Loader\" style=\"visibility:hidden\" class=\"ajax-loader\" src=\"${DYNAMIC_CONTENT}\" /> </span> <span id=\"deactivate-widget\">Deactivate</span>"
 #: ./browser/quickedit.pt:111
@@ -303,7 +303,7 @@ msgstr ""
 
 #: ./interfaces/exportimport.py:19
 msgid "Upload"
-msgstr ""
+msgstr "Carica"
 
 #. Default: "Whole Number Field"
 #: ./profiles/default/types/FormIntegerField.xml
@@ -313,12 +313,12 @@ msgstr ""
 #. Default: "Actions"
 #: ./browser/jsvariables.py:18
 msgid "actions"
-msgstr ""
+msgstr "Azioni"
 
 #. Default: "Unable to load resource: "
 #: ./browser/jsvariables.py:20
 msgid "ajax_failed_msg"
-msgstr ""
+msgstr "Impossibile caricare la risorsa: "
 
 # value="Clear Saved Input"
 #. Save Data Adapter
@@ -330,7 +330,7 @@ msgstr "Elimina i dati salvati"
 #. Default: "Clear all saved input?"
 #: ./skins/PloneFormGen/fg_savedata_view_p3.pt:85
 msgid "clear-saved-input-confirm"
-msgstr ""
+msgstr "Cancellare tutti i dati salvati?"
 
 #. Default: "Set defaults for addressing fields for new mail-action adapters. Please note that your input here is not verified. So, make sure you use valid addresses."
 #: ./skins/PloneFormGen/prefs_pfg_addressing.cpt:63
@@ -345,22 +345,22 @@ msgstr "Qui puoi impostare un testo ed un tipo MIME predefinito per l'adattatore
 #. Default: "You may hide or expose PloneFormGen functionality from classes of users by adjusting the permissions allowed to particular portal security roles. The form below adjusts role/permission settings at the site level. You may fine tune permissions on a folder-by-folder basis via the security tab in the ZMI."
 #: ./skins/PloneFormGen/prefs_pfg_permits.cpt:65
 msgid "description_ploneformgen_permissions"
-msgstr "Puoi nascondere o mostrare le funzionalità di PloneFormGen agli utenti modificando i permessi concessi a specifici ruoli di sicurezza del portale. Il seguente modulo configura i ruoli e i permessi a livello di sito. Puoi impostare in modo più fine i permessi sulla singola cartella usando la pagina \"security\" nella ZMI"
+msgstr "Puoi nascondere o mostrare le funzionalità di PloneFormGen agli utenti modificando i permessi concessi a specifici ruoli di sicurezza del portale. Il seguente modulo configura i ruoli e i permessi a livello di sito. Puoi impostare in modo più fine i permessi sulla singola cartella usando il tab \"security\" nella ZMI"
 
 #. Default: "Set defaults for data adapters."
 #: ./skins/PloneFormGen/prefs_pfg_savedata.cpt:63
 msgid "description_ploneformgen_savedata"
-msgstr ""
+msgstr "Imposta i valori predefiniti per gli adattatori dei dati."
 
 #. Default: "\n                    Mark this field as a value to be injected into the\n                    request form for use by action adapters and is not \n                    modifiable by or exposed to the client.\n                "
 #: ./content/fieldsBase.py:257
 msgid "description_server_side_text"
-msgstr ""
+msgstr "Segna questo campo come valore da inserire nel form di richiesta per utilizzarlo negli adattatori di azioni. Non sarà comunque visibile o modificabile dall'utente"
 
 #. Default: "Field"
 #: ./browser/jsvariables.py:17
 msgid "field"
-msgstr ""
+msgstr "Campo"
 
 #. Default: "PloneFormGen Mail Addressing Defaults"
 #: ./skins/PloneFormGen/prefs_pfg_addressing.cpt:53
@@ -380,7 +380,7 @@ msgstr "Permessi di PloneFormGen"
 #. Default: "PloneFormGen Saved Data Adapter Defaults"
 #: ./skins/PloneFormGen/prefs_pfg_savedata.cpt:53
 msgid "heading_ploneformgen_savedata"
-msgstr ""
+msgstr "Valori predefiniti degli adattatori PloneFormGen per la memorizzazione dei dati"
 
 #. Default: "\n                A TALES expression that will be called after the form is\n                successfully validated, but before calling an action adapter\n                (if any) or displaying a thanks page.\n                Form input will be in the request.form dictionary.\n                Leave empty if unneeded.\n                The most common use of this field is to call a python script\n                to clean up form input or to script an alternative action.\n                Any value returned by the expression is ignored.\n                PLEASE NOTE: errors in the evaluation of this expression will\n                cause an error on form display.\n            "
 #: ./content/form.py:236
@@ -399,14 +399,13 @@ msgstr "Espressione TALES che sarà richiamata quando il modulo verrà caricato.
 #. form and select the active ones.
 #. Default: "\n                To make your form do something useful when submitted:\n                add one or more form action adapters to the form folder,\n                configure them, then return to this\n                form and select the active ones.\n                "
 #: ./content/form.py:86
-#, fuzzy
 msgid "help_actionadapter_text"
-msgstr "Per far fare al vostro modulo qualcosa di utile quando viene inviato inserite uno o più adattatori alla cartella del modulo, configurateli e tornate in questa pagina per selezionarli."
+msgstr "Per far fare al vostro modulo qualcosa di utile quando viene inviato inserite uno o più adattatori alla cartella del modulo, configurateli e tornate in questa pagina per selezionare quelli attivi."
 
 #. Default: "\n                A TALES expression that will be evaluated to override any value\n                otherwise entered for the BCC list. You are strongly\n                cautioned against using unvalidated data from the request for this purpose.\n                Leave empty if unneeded. Your expression should evaluate as a sequence of strings.\n                PLEASE NOTE: errors in the evaluation of this expression will cause\n                an error on form display.\n            "
 #: ./content/formMailerAdapter.py:441
 msgid "help_bcc_override_text"
-msgstr ""
+msgstr "Un'espressione TALES che verrà valutata per sovrascrivere qualsiasi valore inserito per la lista BCC. Attenzione a non utilizzare dati non validati provenienti dalla richiesta per questo scopo. Lasciare vuoto se non utilizzato. L'espressione dovrebbe essere valutabile come una sequenza di stringhe. Nota: eventuali errori nella valutazione di questa espressione impedirà di mostrare correttamente il form."
 
 #. Boolean Field
 #. Default: "NOTE: For a checkbox field, the required flag doesn't do anything beyond\n           putting a 'required' marker next to the label. If you wish to require a\n           particular input, choose a validator below.\n        "
@@ -1213,9 +1212,8 @@ msgstr "Modello per il corpo dell'email"
 #. Default: "Mail Format"
 #: ./content/formMailerAdapter.py:300
 #: ./skins/PloneFormGen/prefs_pfg_mtemplate.cpt:87
-#, fuzzy
 msgid "label_formmailer_body_type"
-msgstr "Tipo del corpo dell'email"
+msgstr "Formato dell'email"
 
 #. Mailer Adapter
 #. Default: "CC Recipients"
@@ -1552,7 +1550,7 @@ msgstr ""
 #. Default: "Comments"
 #: ./content/form.py:888
 msgid "pfg_commentsfield_title"
-msgstr ""
+msgstr "Commenti"
 
 #. Form Folder
 #. Initial value for Reset Button Label
@@ -1565,7 +1563,6 @@ msgstr "Annulla"
 #. Initial value for Submit Button Label
 #. Default: "Submit"
 #: ./content/form.py:816
-#, fuzzy
 msgid "pfg_formfolder_submit"
 msgstr "Invia"
 
@@ -1598,9 +1595,8 @@ msgstr "Questo campo richiede un URL di tipo mailto:"
 
 #. Default: "This value contains unprintable characters."
 #: ./content/validationMessages.py:28
-#, fuzzy
 msgid "pfg_isPrintable"
-msgstr "Inserire caratteri stampabili"
+msgstr "Questo valore contiene caratteri non stampabili."
 
 #. Default: "This field is required."
 #: ./content/validationMessages.py:43
@@ -1726,16 +1722,14 @@ msgstr "Non è selezionato"
 # default='Is Tidy HTML (fails on errors and warnings)')
 #. Default: "Is Tidy HTML (fails on errors and warnings)"
 #: ./content/fields.py:1067
-#, fuzzy
 msgid "vocabulary_istidyhtml_text"
-msgstr "É HTML valido (si blocca su errori e  avvisi)"
+msgstr "É HTML Tidy (si blocca su errori e  avvisi)"
 
 # default='Tidy HTML With Cleanup (fails on errors, cleans up rest)')
 #. Default: "Tidy HTML With Cleanup (fails on errors, cleans up rest)"
 #: ./content/fields.py:1070
-#, fuzzy
 msgid "vocabulary_istidyhtmlwithcleanup_text"
-msgstr "HTML valido con pulizia (si blocca su errori e pulisce il resto)"
+msgstr "HTML Tidy con pulizia (si blocca su errori e pulisce il resto)"
 
 # *** Vocabularies
 # default="None"

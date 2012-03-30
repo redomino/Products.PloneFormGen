@@ -68,7 +68,7 @@ FormFolderSchema = ATFolderSchema.copy() + Schema((
         languageIndependent=1,
         widget=BooleanWidget(label=_(u'label_showcancel_text',
                                      default=u'Show Reset Button'),
-            description=_(u'help_showcancel_text'),
+            description=_(u'help_showcancel_text', default=u""),
             ),
         ),
     StringField('resetLabel',
