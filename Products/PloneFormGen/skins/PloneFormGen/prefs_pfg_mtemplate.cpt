@@ -84,7 +84,7 @@
 
                 <div class="field">
                 <fieldset>
-                    <legend><strong i18n:translate="label_formmailer_body_type">Mail Format</strong></legend>                
+                    <legend><strong i18n:translate="label_formmailer_body_type">Mail-Body Type</strong></legend>                
                     
                     <input type="radio" name="body_type" value="html" 
                         tal:attributes="checked python:test(pfgTool.getDefaultMailBodyType()=='html','CHECKED',None)"

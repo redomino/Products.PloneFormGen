@@ -16,13 +16,14 @@
       <tal:block tal:condition="not:quickEdit">
           <span tal:replace="structure string:</fieldset>" />
       </tal:block>
-      <div tal:condition="quickEdit" class="field fsend" tal:attributes="id string:archetypes-fieldname-${field/getName}">
+      <div tal:condition="quickEdit" class="field fsend" tal:attributes="id string:archetypes-fieldname-${field/getName}"
+            i18n:translate="">
         Fieldset End
       </div>
     </metal:define>
 
     <div metal:define-macro="search">
-          <div>Fieldset End</div>
+          <div i18n:translate="">Fieldset End</div>
     </div>
 
   </body>

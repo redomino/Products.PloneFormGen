@@ -6,6 +6,7 @@ from Products.Five import BrowserView
 from plone.memoize.view import memoize
 
 from plone.app.layout.globals.interfaces import IViewView
+from Products.PloneFormGen import PloneFormGenMessageFactory as _
 
 
 class QuickEditView(BrowserView):
@@ -62,8 +63,8 @@ class QuickEditView(BrowserView):
     def addableFieldsets(self):
         """ Return a list of fieldset markers """
         return (
-            {'id':'FieldsetStart','title':'Fieldset Start','description':'Begin a fieldset'},
-            {'id':'FieldsetEnd','title':'Fieldset End','description':'End a fieldset'},
+            {'id':'FieldsetStart','title':_("Fieldset Start"),'description':_('Begin a fieldset')},
+            {'id':'FieldsetEnd','title':_("Fieldset End"),'description':_('End a fieldset')},
         )
 
 
